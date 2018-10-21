@@ -1,4 +1,4 @@
-package com.sda.sortowaniebabelkowe;
+package com.sda.sort;
 
 public class Main {
 
